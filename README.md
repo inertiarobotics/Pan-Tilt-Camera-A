@@ -1,5 +1,7 @@
-# Pan Tilt Mechanism Version 1 - For Raspberry Pi Camera V2
+# Pan Tilt Mechanism Version 1
+For Raspberry Pi Camera V2
 
+# Why ? 
 The widely available pan tilt mechanism kits sold by adafruit, sparkfun or piromoni (https://www.sparkfun.com/products/14391) are quite cheap and handy to setup , but lack to deliver stability. They servo necks rattles and wiggles under motion. This design uses bearings at pan and tilt positions to offer a stabler design.
 
 ## Prerequisites / BOM:
@@ -15,3 +17,4 @@ https://www.amazon.com/10-Bearing-6700ZZ-10x15x4-Shielded/dp/B002BBK5MY
 
 ## Installation Steps:
 [Click to open instruction pdf ](Pan-Tilt-Camera-V1/blob/main/Install%20Instructions%20-%20Pan%20Tilt%20Camera%20V1.pdf)
+Or See Install Instructions - Pan Tilt Camera V1.pdf
