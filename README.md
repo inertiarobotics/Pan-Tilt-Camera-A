@@ -15,6 +15,6 @@ https://www.amazon.com/10-Bearing-6700ZZ-10x15x4-Shielded/dp/B002BBK5MY
 - 4 units of #6-32 x 1-3/4 machine screws - 4 units
 - Glue
 
-## Installation Steps:
+## Assembly Guide:
 [Click to open instruction pdf ](Pan-Tilt-Camera-V1/blob/main/Install%20Instructions%20-%20Pan%20Tilt%20Camera%20V1.pdf)
 Or See Install Instructions - Pan Tilt Camera V1.pdf
