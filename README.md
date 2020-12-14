@@ -14,4 +14,4 @@ https://www.amazon.com/10-Bearing-6700ZZ-10x15x4-Shielded/dp/B002BBK5MY
 - Glue
 
 ## Installation Steps:
-![resources](https://docs.google.com/document/d/e/2PACX-1vTNRcnnxRrNKKXvCO5WJvNEpigSodxE5IGFWaxLbhdEd5KtXdVKnEbCNEpesL63jFuA_9H6f0ocuhvM/pub)
+[a relative link](Install Instructions - Pan Tilt Camera V1.pdf)
