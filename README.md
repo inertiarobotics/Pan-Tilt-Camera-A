@@ -20,6 +20,7 @@ https://www.amazon.com/3x6x2-5mm-Precision-Bearings-Rubber-MR63-2RS/dp/B014LT87H
 - Glue
 
 ## Assembly Guide:
-[Click to open instruction pdf ](Pan-Tilt-Camera-A/blob/main/Install%20Instructions%20-%20Pan%20Tilt%20Camera%20A.pdf)
 
-Or see the Install Instructions - Pan Tilt Camera B.pdf file.
+See Install Instructions - Pan Tilt Camera A.pdf file at
+
+https://github.com/inertiarobotics/Pan-Tilt-Camera-A/blob/main/Install%20Instructions%20-%20Pan%20Tilt%20Camera%20A.pdf
