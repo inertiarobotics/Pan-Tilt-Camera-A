@@ -1,5 +1,5 @@
 # Pan Tilt Mechanism Version A
-For Raspberry Pi Camera V2.
+A vibration tolerant Pan & tilt Mechanism for **Raspberry Pi Camera V2** .
 <img src="https://github.com/inertiarobotics/Pan-Tilt-Camera-A/blob/main/Camera%20Mount%20Component.png?raw=true" width="80%" height="80%">
 
 #### For a less bulkier version, see [Pan Tilt Camera B](https://github.com/inertiarobotics/Pan-Tilt-Camera-B)
