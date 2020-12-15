@@ -1,7 +1,9 @@
 # Pan Tilt Mechanism Version A
 For Raspberry Pi Camera V2.
+<img src="https://github.com/inertiarobotics/Pan-Tilt-Camera-A/blob/main/Camera%20Mount%20Component.png?raw=true" width="80%" height="80%">
 
-(For a less bulkier version [Pan Tilt Camera B](https://github.com/inertiarobotics/Pan-Tilt-Camera-B))
+#### For a less bulkier version, see [Pan Tilt Camera B](https://github.com/inertiarobotics/Pan-Tilt-Camera-B)
+
 
 # Why ? 
 The widely available pan tilt mechanism kits sold by adafruit, sparkfun or piromoni (https://www.sparkfun.com/products/14391) are quite cheap and handy to setup , but lack to deliver stability. They servo necks rattles and wiggles under motion. This design uses bearings at pan and tilt positions to offer a stabler design.
