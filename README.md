@@ -6,7 +6,7 @@ A vibration tolerant Pan & tilt Mechanism for **Raspberry Pi Camera V2** .
 
 
 # Why ? 
-The widely available pan tilt mechanism kits sold by adafruit, sparkfun or piromoni (https://www.sparkfun.com/products/14391) are quite cheap and handy to setup , but lack to deliver stability. They servo necks rattles and wiggles under motion. This design uses bearings at pan and tilt positions to offer a stabler design.
+The widely available pan tilt mechanism kits sold by adafruit, sparkfun or piromoni (https://www.sparkfun.com/products/14391) are quite cheap and handy to setup - which is great, but lack to offer stability, when the weight of the camera is raised due to additional lense attachments. The servo necks rattles and wiggles under motion. This design uses bearings at pan and tilt positions to offer a stabler design. The 1" bearing at the pan level secures the pan servo neck in place and prevents vertical jerky motions - suitable for robotic applications, RC cars, boars , airplanes
 
 ## Prerequisites / BOM:
 - 2 units of SG 90 - Micro 9g servos - one for pan and other for tilt.
